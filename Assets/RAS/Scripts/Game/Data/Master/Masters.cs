@@ -18,8 +18,5 @@ public static class Masters
     public const float PercentToDecimal = 0.01f;
 
     public static readonly LocalizeTextDataBase LocalizeTextDB = new LocalizeTextDataBase("LocalizeTextData");
-    public static readonly DataBase<SymbolBgData> SymbolBgDB = new DataBase<SymbolBgData>("mSymbolBg");
-    public static readonly DataBase<SymbolFrameData> SymbolFrameDB = new DataBase<SymbolFrameData>("mSymbolFrame");
-    public static readonly DataBase<SymbolCharacterData> SymbolCharacterDB = new DataBase<SymbolCharacterData>("mSymbolCharacter");
     public static readonly DataBase<SymbolData> SymbolDB = new DataBase<SymbolData>("mSymbol");
 }

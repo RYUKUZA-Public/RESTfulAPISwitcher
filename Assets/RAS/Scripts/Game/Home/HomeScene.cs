@@ -13,7 +13,7 @@ public class HomeScene : SceneBase
 
     private void Start()
     {
-        var asd = Masters.SymbolCharacterDB.FindById(3).key;
+        var asd = Masters.SymbolDB.FindById(1).frameId;
         Debug.Log($"{asd}");
         Debug.Log($"{UserData.Get().name}");
     }

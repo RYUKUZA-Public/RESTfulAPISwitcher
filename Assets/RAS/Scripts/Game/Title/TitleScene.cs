@@ -55,8 +55,6 @@ public class TitleScene : SceneBase
         queue.Enqueue(() => MasterApi.CallGetMasterApi(
             queue.Dequeue(),
             Masters.LocalizeTextDB,
-            Masters.SymbolBgDB,
-            Masters.SymbolFrameDB,
             Masters.SymbolDB
         ));
         
