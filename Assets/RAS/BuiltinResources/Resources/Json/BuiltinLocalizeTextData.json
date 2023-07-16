@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1.0,
+    "key": "Decide",
+    "text": "決定",
+    "textZh": "确定",
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 2.0,
+    "key": "Cancel",
+    "text": "キャンセル",
+    "textZh": "取消",
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 3.0,
+    "key": "OK",
+    "text": "OK",
+    "textZh": "好",
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 4.0,
+    "key": "ConnectErrorMessage",
+    "text": "通信環境の良い場所で再度お試し下さい。",
+    "textZh": "请在通讯环境良好的地方再试一次。",
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 5.0,
+    "key": "Yes",
+    "text": "はい",
+    "textZh": "是",
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 6.0,
+    "key": "No",
+    "text": "いいえ",
+    "textZh": "沒有",
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 7.0,
+    "key": "Back",
+    "text": "戻る",
+    "textZh": "回去",
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 8.0,
+    "key": "TakeOverId",
+    "text": "引継ぎID",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 9.0,
+    "key": "TakeOverPass",
+    "text": "引継ぎPASS",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 10.0,
+    "key": "Menu",
+    "text": "メニュー",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 11.0,
+    "key": "CacheClearDescription",
+    "text": "キャッシュクリアします。\\nプレイするにはゲーム開始時にファイルの再DL処理が行われます。",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 12.0,
+    "key": "CacheClearFinished",
+    "text": "キャッシュをクリアしました。",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 13.0,
+    "key": "NoticeDownloadFileSize",
+    "text": "{0}MBのファイルのダウンロードが必要です。",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 14.0,
+    "key": "CacheClear",
+    "text": "キャッシュクリア",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 15.0,
+    "key": "DataMovement",
+    "text": "引継ぎコード入力",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 16.0,
+    "key": "Notice",
+    "text": "お知らせ",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 17.0,
+    "key": "ContactUs",
+    "text": "お問い合わせ",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  },
+  {
+    "id": 18.0,
+    "key": "BundleVersionErrorMessage",
+    "text": "新しいバージョンのアプリがあります。\\nバージョンアップして下さい。",
+    "textZh": null,
+    "textTw": null,
+    "textEn": null
+  }
+]

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd30e59b269c1d94a8e033e46c25ef64, type: 3}
+  m_Name: login
+  m_EditorClassIdentifier: 
+  data: "    {\r\n    \"loginSuccess\": true,\r\n    \"tAuth\": {\r\n        \"userId\":
+    1,\r\n        \"loginHash\": \"33_5f7291f442ccc\",\r\n        \"limit\": \"2020-09-30
+    01:46:28\"\r\n    }\r\n}"

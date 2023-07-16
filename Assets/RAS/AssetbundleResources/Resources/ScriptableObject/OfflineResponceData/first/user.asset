@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd30e59b269c1d94a8e033e46c25ef64, type: 3}
+  m_Name: user
+  m_EditorClassIdentifier: 
+  data: "{\r\n\t\"tUsers\": {\r\n\t\t\"id\": 1,\r\n\t\t\"userName\": \"\u30AA\u30D5\u30E9\u30A4\u30F3\",\r\n\t\t\"userStatus\":
+    1,\r\n\t\t\"tutorialStatus\": 1,\r\n\t\t\"level\": 1,\r\n\t\t\"exp\": 0,\r\n\t\t\"coin\":
+    100000,\r\n\t\t\"freeGem\": 100000,\r\n\t\t\"chargeGem\": 100000,\r\n\t\t\"created_at\":
+    \"2020-01-15 14:40:32\",\r\n\t\t\"updated_at\": \"2020-01-15 14:40:32\",\r\n\t\t\"deleted_at\":
+    null\r\n\t},\r\n\t\"tLoginTotal\": null,\r\n\t\"tUsersLogin\": [{\r\n\t\t\"id\":
+    2,\r\n\t\t\"userId\": 2,\r\n\t\t\"device\": 2,\r\n\t\t\"authType\": 3,\r\n\t\t\"firstAuthDate\":
+    \"2020-01-15 14:40:32\",\r\n\t\t\"created_at\": \"2020-01-15 14:40:32\",\r\n\t\t\"updated_at\":
+    \"2020-01-15 14:40:32\",\r\n\t\t\"deleted_at\": null\r\n\t}]\r\n}"
